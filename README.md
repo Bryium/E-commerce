@@ -187,11 +187,4 @@ If you want to [Download Free Admin Templates](https://themeselection.com/item/c
 - [Download Free Admin Templates](https://themeselection.com/item/category/free-admin-templates/)
 - [Bootstrap 5 CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
 
-## Social Media :earth_africa:
 
-- [Twitter](https://twitter.com/Theme_Selection)
-- [Facebook](https://www.facebook.com/ThemeSelections/)
-- [Pinterest](https://pinterest.com/themeselect/)
-- [Instagram](https://www.instagram.com/themeselection/)
-- [Discord](https://discord.gg/kBHkY7DekX)
-- [YouTube](https://www.youtube.com/channel/UCuryo5s0CW4aP83itLjIdZg)
